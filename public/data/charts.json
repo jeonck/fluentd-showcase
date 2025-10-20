@@ -1,0 +1,16 @@
+[
+  {
+    "name": "QWEN",
+    "title": "React Hub Template - QWEN Context",
+    "description": "A React-based navigation hub template with a responsive navbar and organized content pages",
+    "content": "# React Hub Template - QWEN Context\n\n## Project Overview\n\nThis is a React-based navigation hub template with a responsive navbar and organized content pages. The template provides a foundation for creating documentation, learning platforms, or content-rich applications with clear navigation structure.",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "name": "YAML_ALIGN_FIX",
+    "title": "YAML Alignment Fix",
+    "description": "Fixed YAML content alignment issue in HelmChartDetail component",
+    "content": "/* \n * Fixed YAML content alignment issue in HelmChartDetail component\n * Problem: YAML content was appearing centered instead of left-aligned\n * Solution: Added explicit left-alignment classes and block display\n */",
+    "createdAt": "2025-10-08"
+  }
+]

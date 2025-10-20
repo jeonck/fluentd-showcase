@@ -1,0 +1,9 @@
+@import "tailwindcss/preflight.css";
+@import "tailwindcss/theme.css";
+@import "tailwindcss/utilities.css";
+
+@import 'prismjs/themes/prism-tomorrow.css';
+
+body {
+  @apply bg-gray-50 text-gray-800;
+}
